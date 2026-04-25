@@ -1,0 +1,19 @@
+{
+  "name": "Casino Baden-Baden",
+  "short_name": "Casino Baden-Baden",
+  "theme_color": "",
+  "background_color": "#030404",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1777115571-favicon-78.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
